@@ -13,3 +13,6 @@ scottstoked_yeehaw.wav by shawshank73 -- https://freesound.org/s/102437/ -- Lice
 
 
 Creak Wood Floor Single 05 by f4kf4ce -- https://freesound.org/s/261372/ -- License: Attribution 3.0
+
+
+Shotgun Shot 03.wav by LilMati -- https://freesound.org/s/473846/ -- License: Creative Commons 0
