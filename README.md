@@ -7,3 +7,6 @@ An Unreal 5 prototype -project with the purpose of practicing team cohesion.
 Plasma - Lazer Pistol Gun Shot 1 by Erokia -- https://freesound.org/s/427396/ -- License: Attribution 4.0
 
 ambient-rural-southeast1.wav by depardieu -- https://freesound.org/s/434159/ -- License: Creative Commons 0
+
+
+scottstoked_yeehaw.wav by shawshank73 -- https://freesound.org/s/102437/ -- License: Attribution 3.0
