@@ -16,3 +16,9 @@ Creak Wood Floor Single 05 by f4kf4ce -- https://freesound.org/s/261372/ -- Lice
 
 
 Shotgun Shot 03.wav by LilMati -- https://freesound.org/s/473846/ -- License: Creative Commons 0
+
+
+Banjo Melody.wav by BullSam -- https://freesound.org/s/509495/ -- License: Creative Commons 0
+
+
+
