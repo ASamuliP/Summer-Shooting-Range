@@ -21,4 +21,7 @@ Shotgun Shot 03.wav by LilMati -- https://freesound.org/s/473846/ -- License: Cr
 Banjo Melody.wav by BullSam -- https://freesound.org/s/509495/ -- License: Creative Commons 0
 
 
+Gun Reload by SecureSubset -- https://freesound.org/s/787669/ -- License: Creative Commons 0
+
+
 
